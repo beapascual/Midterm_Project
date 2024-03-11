@@ -188,7 +188,7 @@ li{
 	align-items: center;
 }
 .fade1 .overlay{
-	background-image: url('waterHead.png');
+	background-image: url('waterHead.jpg');
 	background-size: cover;
 }
 .fade1 .bookContainer{
@@ -283,7 +283,7 @@ li{
 	background-color: #8ecae6;
 }
 #book1 .top{
-  background-image: url('waterHead.png');
+  background-image: url('waterHead.jpg');
 }
 #book1 .menu{
 	background-color: #0077b6;
